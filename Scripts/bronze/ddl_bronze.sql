@@ -4,8 +4,8 @@
   PURPOSE: Load data from CSV files into Bronze layer tables
            Bronze layer stores raw data from source systems (CRM & ERP)
   
-  AUTHOR: Data Engineering Team
-  CREATED: 2025
+  AUTHOR: Waleed Javed
+  CREATED: 13/10/2025
   
   TABLES AFFECTED:
     - bronze.crm_cust_info
